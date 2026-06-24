@@ -1,0 +1,21 @@
+[
+  { "category": "AI/ML",             "name": "OpenAI Blog",         "url": "https://openai.com/news/rss.xml" },
+  { "category": "AI/ML",             "name": "Hugging Face Blog",   "url": "https://huggingface.co/blog/feed.xml" },
+  { "category": "AI/ML",             "name": "Google AI Blog",      "url": "https://blog.google/technology/ai/rss/" },
+  { "category": "AI/ML",             "name": "MIT Tech Review AI",  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+  { "category": "AI/ML",             "name": "arXiv cs.AI",         "url": "http://export.arxiv.org/rss/cs.AI" },
+
+  { "category": "Data Engineering",  "name": "Towards Data Science","url": "https://towardsdatascience.com/feed" },
+  { "category": "Data Engineering",  "name": "Databricks Blog",     "url": "https://www.databricks.com/blog/feed.xml" },
+  { "category": "Data Engineering",  "name": "AWS Big Data Blog",   "url": "https://aws.amazon.com/blogs/big-data/feed/" },
+  { "category": "Data Engineering",  "name": "Netflix Tech Blog",   "url": "https://netflixtechblog.com/feed" },
+
+  { "category": "Blockchain/Crypto", "name": "CoinDesk",            "url": "https://www.coindesk.com/arc/outboundfeeds/rss/" },
+  { "category": "Blockchain/Crypto", "name": "Cointelegraph",       "url": "https://cointelegraph.com/rss" },
+  { "category": "Blockchain/Crypto", "name": "Decrypt",             "url": "https://decrypt.co/feed" },
+
+  { "category": "General Tech",      "name": "Hacker News",         "url": "https://hnrss.org/frontpage" },
+  { "category": "General Tech",      "name": "TechCrunch",          "url": "https://techcrunch.com/feed/" },
+  { "category": "General Tech",      "name": "The Verge",           "url": "https://www.theverge.com/rss/index.xml" },
+  { "category": "General Tech",      "name": "Ars Technica",        "url": "https://feeds.arstechnica.com/arstechnica/index" }
+]
