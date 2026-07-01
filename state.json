@@ -1,18 +1,6 @@
 {
-  "last_run": "2026-07-01T05:13:31.949872269Z",
+  "last_run": "2026-07-01T09:24:14.296737969Z",
   "seen_links": [
-    "https://arxiv.org/abs/2606.28715",
-    "https://arxiv.org/abs/2606.28724",
-    "https://arxiv.org/abs/2606.28737",
-    "https://arxiv.org/abs/2606.28749",
-    "https://arxiv.org/abs/2606.28758",
-    "https://arxiv.org/abs/2606.28772",
-    "https://arxiv.org/abs/2606.28778",
-    "https://arxiv.org/abs/2606.28787",
-    "https://arxiv.org/abs/2606.28789",
-    "https://arxiv.org/abs/2606.28813",
-    "https://arxiv.org/abs/2606.28815",
-    "https://arxiv.org/abs/2606.28824",
     "https://arxiv.org/abs/2606.28831",
     "https://arxiv.org/abs/2606.28835",
     "https://arxiv.org/abs/2606.28841",
@@ -1000,6 +988,18 @@
     "https://claude.com/product/claude-science",
     "https://deepmind.google/models/gemini-image/flash-lite/",
     "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html"
+    "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+    "https://cointelegraph.com/news/goliath-ceo-guilty-400m-crypto-ponzi-case?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/01/bitcoin-s-20-june-crash-looks-even-deadlier-on-the-charts-here-s-why",
+    "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion",
+    "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
+    "https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves",
+    "https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
+    "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+    "https://news.ycombinator.com/item?id=48744213",
+    "https://www.dongascience.com/en/news/30374",
+    "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
   ]
 }
