@@ -1,12 +1,6 @@
 {
-  "last_run": "2026-07-05T04:47:05.978801592Z",
+  "last_run": "2026-07-05T08:35:34.442745202Z",
   "seen_links": [
-    "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags",
-    "https://www.databricks.com/blog/beyond-dashboards-introducing-decision-execution-platforms",
-    "https://www.databricks.com/blog/forecasting-speed-modern-retail",
-    "https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy-part-2/",
-    "https://towardsdatascience.com/persistent-latent-memory-for-multi-hop-llm-agents-how-a-6g-handover-paper-closes-the-agent-cold-start/",
-    "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/trumps-american-bitcoin-sinks-ahead-of-reverse-stock-split-to-stay-listed?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
@@ -1000,6 +994,12 @@
     "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
     "https://www.eso.org/public/news/eso2607/",
     "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-    "https://javoriuski.com/post/youtube"
+    "https://javoriuski.com/post/youtube",
+    "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
+    "https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+    "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
+    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+    "https://computer.rip/2026-07-04-microwave-and-power.html",
+    "https://hic-ai.com"
   ]
 }
