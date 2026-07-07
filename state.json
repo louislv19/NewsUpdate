@@ -1,17 +1,6 @@
 {
-  "last_run": "2026-07-07T04:40:07.201537761Z",
+  "last_run": "2026-07-07T09:01:01.730081474Z",
   "seen_links": [
-    "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-    "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-    "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-    "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-    "https://towardsdatascience.com/setting-up-your-own-large-language-model/",
-    "https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/",
-    "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
     "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
     "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
     "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
@@ -1000,6 +989,17 @@
     "https://github.com/V4bel/Januscape",
     "https://github.com/iOfficeAI/OfficeCLI",
     "https://news.ycombinator.com/item?id=48806976",
-    "https://arxiv.org/abs/2607.01504"
+    "https://arxiv.org/abs/2607.01504",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/yield-guild-games-cuts-35-staff-shuts-game-publisher-to-focus-on-ai?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/strategys-bitcoin-sale-may-give-btc-a-durable-bottom-says-grayscale?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "https://jobs.ashbyhq.com/lago",
+    "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play",
+    "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
+    "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
+    "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+    "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume"
   ]
 }
