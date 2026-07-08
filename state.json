@@ -1,16 +1,6 @@
 {
-  "last_run": "2026-07-08T04:00:32.72189427Z",
+  "last_run": "2026-07-08T08:03:10.597820198Z",
   "seen_links": [
-    "https://arxiv.org/abs/2607.03100",
-    "https://arxiv.org/abs/2607.03103",
-    "https://arxiv.org/abs/2607.03126",
-    "https://arxiv.org/abs/2607.03131",
-    "https://arxiv.org/abs/2607.03135",
-    "https://arxiv.org/abs/2607.03143",
-    "https://arxiv.org/abs/2607.03145",
-    "https://arxiv.org/abs/2607.03148",
-    "https://arxiv.org/abs/2607.03154",
-    "https://arxiv.org/abs/2607.03158",
     "https://arxiv.org/abs/2607.03160",
     "https://arxiv.org/abs/2607.03166",
     "https://arxiv.org/abs/2607.03171",
@@ -1000,6 +990,16 @@
     "https://twitter.com/claudeai/status/2074548242386178258",
     "https://github.com/jimparis/qr-font",
     "https://github.com/rowboatlabs/rowboat",
-    "https://30papers.com/"
+    "https://30papers.com/",
+    "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/starkware-ceo-suggests-4-annual-bitcoin-inflation-to-replace-21m-cap?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/swyftx-eyes-crypto-payments-space-after-securing-australian-license?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
+    "https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil",
+    "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "https://twitter.com/OpenAI/status/2074704958419792299"
   ]
 }
