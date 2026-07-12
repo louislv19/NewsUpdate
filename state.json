@@ -1,11 +1,6 @@
 {
-  "last_run": "2026-07-12T04:19:16.036814729Z",
+  "last_run": "2026-07-12T07:53:20.663844058Z",
   "seen_links": [
-    "https://arxiv.org/abs/2506.03218",
-    "https://arxiv.org/abs/2506.09276",
-    "https://arxiv.org/abs/2507.10177",
-    "https://arxiv.org/abs/2508.16560",
-    "https://arxiv.org/abs/2509.09513",
     "https://arxiv.org/abs/2509.23876",
     "https://arxiv.org/abs/2510.06505",
     "https://arxiv.org/abs/2510.22450",
@@ -1000,6 +995,11 @@
     "https://github.com/sqlsure/sqlsure",
     "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
     "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom"
+    "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
+    "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+    "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+    "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://github.com/cosmtrek/mindwalk"
   ]
 }
