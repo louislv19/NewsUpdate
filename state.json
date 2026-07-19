@@ -1,8 +1,6 @@
 {
-  "last_run": "2026-07-19T04:16:42.602504706Z",
+  "last_run": "2026-07-19T07:53:34.575514931Z",
   "seen_links": [
-    "https://arxiv.org/abs/2606.10829",
-    "https://arxiv.org/abs/2606.12346",
     "https://arxiv.org/abs/2606.12634",
     "https://arxiv.org/abs/2606.16847",
     "https://arxiv.org/abs/2606.19387",
@@ -1000,6 +998,8 @@
     "https://tangled.org/gleam.run/gleam",
     "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
     "https://elixir-lang.org/",
-    "https://q3edit.com"
+    "https://q3edit.com",
+    "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+    "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea"
   ]
 }
