@@ -1,13 +1,6 @@
 {
-  "last_run": "2026-07-25T07:46:10.873704448Z",
+  "last_run": "2026-07-25T12:53:40.941760902Z",
   "seen_links": [
-    "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-    "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-    "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-    "https://ads.openai.com/",
-    "https://freeink.org/",
-    "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
     "https://poolside.ai/blog/introducing-laguna-s-2-1",
     "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
     "https://news.ycombinator.com/item?id=48995037",
@@ -1000,6 +993,13 @@
     "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
     "https://arcprize.org/leaderboard",
     "https://extinct-media-museum.blog.jp/otemachi/",
-    "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities"
+    "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+    "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+    "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+    "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+    "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+    "https://www.augmental.tech/"
   ]
 }
