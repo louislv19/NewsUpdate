@@ -1,14 +1,6 @@
 {
-  "last_run": "2026-07-27T04:28:47.297824544Z",
+  "last_run": "2026-07-27T09:20:26.172965785Z",
   "seen_links": [
-    "https://arxiv.org/abs/2607.19996",
-    "https://arxiv.org/abs/2607.20005",
-    "https://arxiv.org/abs/2607.20019",
-    "https://arxiv.org/abs/2607.20022",
-    "https://arxiv.org/abs/2607.20058",
-    "https://arxiv.org/abs/2607.20064",
-    "https://arxiv.org/abs/2607.20065",
-    "https://arxiv.org/abs/2607.20129",
     "https://arxiv.org/abs/2607.20268",
     "https://arxiv.org/abs/2607.20379",
     "https://arxiv.org/abs/2607.20402",
@@ -1000,6 +992,14 @@
     "https://github.com/gmrandazzo/CheapSecurity",
     "https://stephango.com/design-is-compromise",
     "https://vectoral.com/blog/token-relay-market",
-    "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
+    "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+    "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+    "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+    "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+    "https://huggingface.co/moonshotai/Kimi-K3"
   ]
 }
