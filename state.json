@@ -1,16 +1,6 @@
 {
-  "last_run": "2026-07-31T04:15:00.705031572Z",
+  "last_run": "2026-07-31T08:26:24.007221727Z",
   "seen_links": [
-    "https://github.com/BraveAnn011/ai-halo-valuation-bias",
-    "https://github.com/schildep/verified-3d-mesh-intersection",
-    "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-    "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-    "https://en.wikipedia.org/wiki/Mondragon_Corporation",
-    "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-    "https://arxiv.org/abs/2510.26692",
-    "https://github.com/wolfpld/usenetarchive",
-    "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-    "https://spawn-queue.acm.org/doi/10.1145/3819083",
     "https://support.apple.com/en-us/128067",
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
@@ -1000,6 +990,16 @@
     "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
     "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
     "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"
+    "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
+    "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
+    "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
+    "https://api-docs.deepseek.com/updates/",
+    "https://github.com/mokshablr/gander",
+    "https://marbleos.com/demo",
+    "https://github.com/openjdk/jdk/pull/31120"
   ]
 }
