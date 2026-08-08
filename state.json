@@ -1,17 +1,6 @@
 {
-  "last_run": "2026-08-08T06:29:21.068731099Z",
+  "last_run": "2026-08-08T12:19:37.127789396Z",
   "seen_links": [
-    "https://arxiv.org/abs/2607.22739",
-    "https://arxiv.org/abs/2607.22999",
-    "https://arxiv.org/abs/2607.23982",
-    "https://arxiv.org/abs/2607.26300",
-    "https://arxiv.org/abs/2607.27670",
-    "https://arxiv.org/abs/2607.28587",
-    "https://arxiv.org/abs/2608.00058",
-    "https://arxiv.org/abs/2608.00076",
-    "https://arxiv.org/abs/2608.00123",
-    "https://arxiv.org/abs/2608.00151",
-    "https://arxiv.org/abs/2608.00747",
     "https://arxiv.org/abs/2608.01269",
     "https://arxiv.org/abs/2608.01301",
     "https://arxiv.org/abs/2608.01366",
@@ -1000,6 +989,17 @@
     "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-    "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3"
+    "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+    "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+    "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+    "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://github.com/xoreaxeaxeax/rosenbridge"
   ]
 }
