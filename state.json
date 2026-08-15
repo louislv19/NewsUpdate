@@ -1,15 +1,6 @@
 {
-  "last_run": "2026-08-15T02:06:11.602243963Z",
+  "last_run": "2026-08-15T06:16:14.963627765Z",
   "seen_links": [
-    "https://arxiv.org/abs/2606.12826",
-    "https://arxiv.org/abs/2606.14498",
-    "https://arxiv.org/abs/2606.15821",
-    "https://arxiv.org/abs/2606.17441",
-    "https://arxiv.org/abs/2606.31087",
-    "https://arxiv.org/abs/2607.03798",
-    "https://arxiv.org/abs/2607.04872",
-    "https://arxiv.org/abs/2607.08970",
-    "https://arxiv.org/abs/2607.13205",
     "https://arxiv.org/abs/2607.13738",
     "https://arxiv.org/abs/2607.16057",
     "https://arxiv.org/abs/2607.23116",
@@ -1000,6 +991,15 @@
     "https://www.byhand.ai/",
     "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
     "https://www.mixedbread.com/blog/toast-1",
-    "https://blog.plover.com/2026/08/02/"
+    "https://blog.plover.com/2026/08/02/",
+    "https://arxiv.org/abs/2608.03025",
+    "https://arxiv.org/abs/2608.10363",
+    "https://arxiv.org/abs/2608.10766",
+    "https://arxiv.org/abs/2608.11195",
+    "https://arxiv.org/abs/2608.10473",
+    "https://arxiv.org/abs/2608.10805",
+    "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+    "https://app.deltix.ai"
   ]
 }
