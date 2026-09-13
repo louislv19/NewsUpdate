@@ -1,10 +1,6 @@
 {
-  "last_run": "2026-09-13T05:27:13.194583853Z",
+  "last_run": "2026-09-13T10:41:20.88508259Z",
   "seen_links": [
-    "https://arxiv.org/abs/2604.11501",
-    "https://arxiv.org/abs/2604.12281",
-    "https://arxiv.org/abs/2604.14345",
-    "https://arxiv.org/abs/2604.15153",
     "https://arxiv.org/abs/2604.16625",
     "https://arxiv.org/abs/2604.17886",
     "https://arxiv.org/abs/2604.18467",
@@ -1000,6 +996,10 @@
     "https://high5apps.github.io/josm-plugin-website-wizard/",
     "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
     "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "https://lalitm.com/post/buildprof/"
+    "https://lalitm.com/post/buildprof/",
+    "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://neobrowser.ai/",
+    "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "https://jetkvm.com/blog/introducing-jetkvm-mini"
   ]
 }
