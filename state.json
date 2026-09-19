@@ -1,11 +1,6 @@
 {
-  "last_run": "2026-09-19T05:12:51.512842586Z",
+  "last_run": "2026-09-19T09:48:38.762314888Z",
   "seen_links": [
-    "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
     "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
     "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
     "https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no",
@@ -1000,6 +995,11 @@
     "https://arxiv.org/abs/2510.03215",
     "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-    "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+    "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+    "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "https://browser.geekbench.com/v7/cpu/389219",
+    "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
   ]
 }
